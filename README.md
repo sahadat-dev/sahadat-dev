@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Frontend Development
-- 📫 How to reach me - sahadathossen.contact@gmail.com
+- 📫 To reach me - sahadathossen.contact@gmail.com
 
 
 <!---
